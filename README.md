@@ -1,4 +1,3 @@
-# Aarav-K
 <h1 align="center">Hi there, I'm Aarav 👋</h1>
 
 I'm a B.Tech CSE student passionate about building real-world web applications and solving DSA problems.  
